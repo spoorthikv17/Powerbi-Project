@@ -23,7 +23,7 @@ It provides insights on:
 - American_Bank_Analysis → Power BI file of the dashboard
 
 # Dashboard
-  ![Dashboard](images/dashboard.png)
+  ![Dashboard](documents/dashboard)
   
 # Key Insights
 - Majority of customers are married  
